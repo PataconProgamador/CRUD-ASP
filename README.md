@@ -1,6 +1,6 @@
 # CRUD-ASP
 ## Presentacion  
-------------  
+
 Profesora Ing.Irina Fong  
 Herramientas de Programación Aplicada III  
 Laboratorio CRUD-ASP  
@@ -9,7 +9,7 @@ Integrantes:
 - Luiscarlos Jiménez
 
 ## Herramientas  
------------------
+
 Laboratorio CRUD-ASP  
 Herramientas:  
 *Visual Studio
