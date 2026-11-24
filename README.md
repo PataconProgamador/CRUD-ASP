@@ -12,11 +12,11 @@ Integrantes:
 
 Laboratorio CRUD-ASP  
 Herramientas:  
-*Visual Studio
-*MySQL
-*Virtual UTP
-*Navegador
-*Youtube
+- Visual Studio
+- MySQL
+- Virtual UTP
+- Navegador
+- Youtube  
 ## Desarrollo  
 Pagina Principal (CRUD):  
 <img width="2555" height="1176" alt="image" src="https://github.com/user-attachments/assets/73a0c921-1b2d-4fdd-bdab-d5e9cfd6c5fe" />
