@@ -3,7 +3,8 @@
 ##Presentacion  
 Integrantes:  
 - Kankibe Gonzales
-- Luiscarlos Jiménez  
+- Luiscarlos Jiménez
+  
 Profesora Ing.Irina Fong  
 Herramientas de Programación Aplicada III  
 Laboratorio CRUD-ASP  
@@ -25,7 +26,7 @@ Pagina Index:
 Pagina Detalle de Usuario:  
 <img width="2556" height="1204" alt="image" src="https://github.com/user-attachments/assets/d187e198-34b1-45fa-a139-f233e0476d2a" />  
 
-PAgina Modificar usuario:  
+Pagina Modificar usuario:  
 <img width="2560" height="1203" alt="image" src="https://github.com/user-attachments/assets/9a70bf73-3685-44c8-b9dd-f46c2e21e3f7" />  
 
 Usuario "Perencejo" actualizado, su fecha de nacimiento, años, y correo:  
