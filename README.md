@@ -1,12 +1,12 @@
 # CRUD-ASP
-------------
+------------  
+Profesora Ing.Irina Fong  
+Herramientas de Programación Aplicada III  
+Laboratorio CRUD-ASP  
 ##Presentacion  
 Integrantes:  
 - Kankibe Gonzales
 - Luiscarlos Jiménez  
-Profesora Ing.Irina Fong  
-Herramientas de Programación Aplicada III  
-Laboratorio CRUD-ASP  
 -----------------
 Laboratorio CRUD-ASP  
 Herramientas:  
